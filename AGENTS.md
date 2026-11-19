@@ -1,0 +1,3 @@
+# Project instructions
+
+Read PROJECT_STATE.md before changes. Follow E:/AGENTS.md. This is a public static informational website, separate from the private extension repository. Keep only sanitized public material here; never copy extension code, tokens, backend project credentials, private reports or user screenshots. Public contact is tomaszjc250@gmail.com. Preserve factual privacy disclosures; do not promise anonymity or invent retention/deletion guarantees. Runtime files are index.html, privacy-policy.html, styles.css and .nojekyll. No framework or build step is needed. Coordinator owns external publication; this author must not create/push a remote. Validate links, mobile layout and privacy content; update PROJECT_STATE.md after work.
